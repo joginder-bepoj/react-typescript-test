@@ -11,16 +11,19 @@ Follow these instructions to get a local copy of the project up and running on y
 Before you begin, make sure you have Node.js installed on your machine.
 
 ### Installation
+1. Clone the repository to your local machine:
 
-1. Navigate into the project directory:
+   ```bash
+   git clone https://github.com/joginder-bepoj/react-typescript-test.git
+2. Navigate into the project directory:
    ```
      cd react-typeScript-test
-2. Install the dependencies using npm or yarn:
+3. Install the dependencies using npm or yarn:
     ```
       npm install
       # or
       yarn
-3. Once you have installed all dependencies, you can start the development server.
+4. Once you have installed all dependencies, you can start the development server.
       ```
          npm run dev
          # or
